@@ -55,3 +55,6 @@ img{
 .dropdown:hover .dropdown-content {
   display: block;
 }
+.panel{
+       background-color: gainsboro;
+}
