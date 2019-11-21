@@ -23,4 +23,5 @@ body{
 }
 img{
     display: block;
+    float: left;
 }
