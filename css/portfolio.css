@@ -43,5 +43,5 @@ img{
         text-align: center;
 }
 .dropdown-content{
-  
+                  position: absolute;
 }
