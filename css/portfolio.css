@@ -16,6 +16,7 @@ p{
         width: 350px
         float: right;
         color: white;
+        
 }
 body{
      background-color: black;
@@ -32,6 +33,6 @@ img{
     margin: 130px;
 }
 .textbox{
-         margin-top: 130px
+         margin: 200px
 
 }
