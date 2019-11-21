@@ -57,7 +57,7 @@ img{
   display: block;
 }
 .panel{
-       background-color: gainsboro;
+       background-color: black;
        padding: 20px;
        margin-top: 100px;
 }
@@ -69,5 +69,7 @@ em{
    font-weight: bold;
 }
 .sidebar{
-  
+         border: solid white;
+         color: white;
+
 }
