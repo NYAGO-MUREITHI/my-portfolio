@@ -25,6 +25,7 @@ img{
     display: block;
     float: left;
     width: 140px;
+    border: solid blue
 }
 .textbox{
          margin-top: 130px
