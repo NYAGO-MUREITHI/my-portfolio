@@ -88,9 +88,9 @@ em{
          margin: 200px;
          font-size: 30px
 }
-@media only screen and (min-width: 480px) {
+@media only screen and (max-width: 480px) {
   .column {
-    width: 150px;
+    width: 300px;
     text-align: center;
   }
 }
