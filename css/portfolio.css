@@ -38,5 +38,6 @@ img{
 }
 .navbar{
         float: left;
+        display: inline-block;
 
 }
