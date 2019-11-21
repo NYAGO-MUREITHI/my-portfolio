@@ -71,6 +71,8 @@ em{
 .sidebar{
          border: solid white;
          color: white;
+         float: right;
+         padding: 30px;
 
 }
 .panel{
@@ -80,7 +82,9 @@ em{
 .class{
     text-align: center;
 }
-.project{
+.projects{
          text-align: center;
-
+         color: white;
+         margin: 200px;
+         font-size: 30px
 }
