@@ -45,5 +45,6 @@ img{
 .dropdown-content{
                   position: absolute;
                   background-color: gainsboro;
-                  width: 50px;
+                  width: 100px;
+                  padding: 20px;
 }
