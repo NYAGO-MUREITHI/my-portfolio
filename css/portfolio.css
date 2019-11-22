@@ -32,7 +32,7 @@ img{
     padding: 15px;
     margin-bottom: 130px;
     margin: 130px;
-    margin-top: 150px;
+    margin-top: 120px;
 }
 .textbox{
          margin: 200px
@@ -74,7 +74,7 @@ em{
          color: white;
          float: right;
          padding: 30px;
-
+         margin: 70px;
 }
 .panel{
         font-size: 30px;
@@ -111,4 +111,30 @@ em{
 .panel p:hover{
                background-color: #808080;
                color: black;
+}
+.background{
+            display: inline-block;
+            padding: 30px;
+            margin: 100px
+            float:right;
+
+            width: 350px;
+            height: auto;
+            margin-top: 200px'
+            position: absolute;
+            top: 30px;
+            left: 0
+}
+.background a{
+               display: inline-block;
+               height: auto;
+               width: 350px;
+               text-align: center;
+               text-decoration: none;
+               font-weight: bold;
+               margin-top: 100px;
+               float: left;
+               color: white;
+
+
 }
